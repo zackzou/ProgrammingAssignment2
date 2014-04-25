@@ -1,3 +1,7 @@
+##sample code : cacheSolve(makeCacheMatrix(mym))
+##Note: mym must be a square matrix, and mym must be a nonsingular matrix
+##Otherwise will occure an error
+
 ## The first function, makeCacheMatrix creates a special "matrix", 
 ## which is really a list containing a function to
 ## set the value of the matrix
